@@ -38,7 +38,8 @@
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
-        "redis": "*"
+        "redis": "*",
+        "writeuint64be": "*"
     },
     "engines": {
         "node": ">=0.10"
